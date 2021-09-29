@@ -17,4 +17,4 @@ RTX:
 Use shader pack SEUS PTGI E12 for RTX based shaders
 otherwise use SEUS-Renewed-v1.0.1 for standard shaders
 
-Made by Xanthus58 
+Made by Xanthus58 with love <3
