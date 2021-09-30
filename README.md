@@ -16,5 +16,6 @@ You must use optifine in order to get the shaderpacks to work. Find online docum
 RTX:
 Use shader pack SEUS PTGI E12 for RTX based shaders
 otherwise use SEUS-Renewed-v1.0.1 for standard shaders
+You also have the option to run Silders Vibrant Shaders witch is a very lite shader pack. Good for low end pcs
 
 Made by Xanthus58 (and Wolfen) with love <3
