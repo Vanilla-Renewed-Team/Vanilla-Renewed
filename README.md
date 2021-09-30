@@ -32,3 +32,5 @@ Some demo images <3
 ![Base Profile Screenshot 2021 09 30 - 16 06 54 10](https://user-images.githubusercontent.com/66909997/135400236-e586a104-6712-4d15-b91c-27c591f53681.png)
 ![Base Profile Screenshot 2021 09 30 - 15 58 49 43](https://user-images.githubusercontent.com/66909997/135400244-22a0a80f-64d1-493a-a11f-7649c234b8b6.png)
 ![Base Profile Screenshot 2021 09 30 - 16 00 36 18](https://user-images.githubusercontent.com/66909997/135400272-4a83c636-dec6-4062-b37b-b47d1913ef19.png)
+![Capture](https://user-images.githubusercontent.com/66909997/135541635-36244a2a-cb03-4406-987d-265a73a2aae7.PNG)
+![Capture](https://user-images.githubusercontent.com/66909997/135541703-4c5a8f31-09e6-4783-9983-7ea932a2ea9f.PNG)
