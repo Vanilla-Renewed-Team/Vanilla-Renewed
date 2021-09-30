@@ -16,8 +16,6 @@ On the bottom right click open folder and drag the entire contents of this pack 
 
 You must use optifine in order to get the shaderpacks to work. Find online documentation here https://www.pwrdown.com/gaming/how-to-install-optifine-for-minecraft-guide-for-all-versions/
 
-![Base Profile Screenshot 2021 09 30 - 16 06 18 04](https://user-images.githubusercontent.com/66909997/135400685-e7c95d1d-298d-4c56-9cb9-2c68439e30d7.png)
-
 RTX:
 Use shader pack SEUS PTGI E12 for RTX based shaders
 otherwise use SEUS-Renewed-v1.0.1 for standard shaders
