@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_chestplate",
+  "textures": {
+    "all": "minecraft:models/armor/chainmail_layer_1"
+  }
+}

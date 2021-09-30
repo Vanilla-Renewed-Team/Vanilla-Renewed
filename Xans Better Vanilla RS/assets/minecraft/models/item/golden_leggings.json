@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_leggings",
+  "textures": {
+    "all": "minecraft:models/armor/gold_layer_2"
+  }
+}

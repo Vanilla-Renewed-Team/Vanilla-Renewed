@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/template_glass_pane",
+  "textures": {
+    "glass": "minecraft:block/glass",
+    "side": "minecraft:block/glass_pane_top"
+  }
+}

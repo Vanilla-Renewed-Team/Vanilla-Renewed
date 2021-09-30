@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "persistent=false,distance=7": {"model": "minecraft:block/dead_flowering_azalea_leaves"}
+  }
+}

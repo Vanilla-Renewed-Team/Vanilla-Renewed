@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_tinted_wallflat",
+  "textures": {
+    "wallflat": "minecraft:block/vine"
+  }
+}

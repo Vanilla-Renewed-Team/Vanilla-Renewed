@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/tinted_large_cross",
+  "textures": {
+    "top": "minecraft:block/large_fern_top",
+    "bottom": "minecraft:block/large_fern_bottom"
+  }
+}

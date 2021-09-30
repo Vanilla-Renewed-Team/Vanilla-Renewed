@@ -1,0 +1,23 @@
+{
+  "multipart": [
+    {"apply": {"model": "minecraft:block/flower_pot"}},
+    {"apply": [
+      { "model": "minecraft:block/potted_dandelion_1", "y": 0, "weight": 8 },
+      { "model": "minecraft:block/potted_dandelion_1", "y": 90, "weight": 8 },
+      { "model": "minecraft:block/potted_dandelion_1", "y": 180, "weight": 8 },
+      { "model": "minecraft:block/potted_dandelion_1", "y": 270, "weight": 8 },
+
+      { "model": "minecraft:block/potted_dandelion_2", "y": 0, "weight": 8 },
+      { "model": "minecraft:block/potted_dandelion_2", "y": 90, "weight": 8 },
+      { "model": "minecraft:block/potted_dandelion_2", "y": 180, "weight": 8 },
+      { "model": "minecraft:block/potted_dandelion_2", "y": 270, "weight": 8 },
+
+      { "model": "minecraft:block/potted_dandelion_3", "y": 0, "weight": 8 },
+      { "model": "minecraft:block/potted_dandelion_3", "y": 90, "weight": 8 },
+      { "model": "minecraft:block/potted_dandelion_3", "y": 180, "weight": 8 },
+      { "model": "minecraft:block/potted_dandelion_3", "y": 270, "weight": 8 }
+              ]
+    }
+               ]
+}
+"credit": "Made by Ensis"

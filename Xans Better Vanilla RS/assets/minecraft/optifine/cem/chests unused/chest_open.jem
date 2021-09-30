@@ -1,0 +1,99 @@
+{
+	"texture": "normal_open.png",
+	"textureSize": [120, 80],
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [-8, -14, 8],
+			"submodels": [
+				{
+					"id": "base_rotation",
+					"invertAxis": "xy",
+					"translate": [0, 7, 0],
+					"rotate": [-180, 0, 0],
+					"boxes": [
+						{"coordinates": [5, -3, -7, 2, 10, 14], "textureOffset": [0, 40]},
+						{"coordinates": [-5, -3, 5, 10, 10, 2], "textureOffset": [40, 52]},
+						{"coordinates": [-5, -3, -7, 10, 10, 2], "textureOffset": [40, 40]},
+						{"coordinates": [-5, 6, -5, 10, 1, 10], "textureOffset": [18, 19]},
+						{"coordinates": [-7, -3, -7, 2, 10, 14], "textureOffset": [0, 16]},
+						{"coordinates": [-7.25, -3, 6.25, 1, 10, 1], "textureOffset": [116, 69]},
+						{"coordinates": [-7.25, -3, -7.25, 1, 10, 1], "textureOffset": [116, 69]},
+						{"coordinates": [6.25, -3, -7.25, 1, 10, 1], "textureOffset": [116, 69]},
+						{"coordinates": [6.25, -3, 6.25, 1, 10, 1], "textureOffset": [116, 69]},
+						{"coordinates": [6.25, 6, -6.25, 1, 1, 13], "textureOffset": [116, 69]},
+						{"coordinates": [-7.25, 6, -6.25, 1, 1, 13], "textureOffset": [116, 69]},
+						{"coordinates": [-6.25, 6, 6.25, 13, 1, 1], "textureOffset": [116, 69]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"base_rotation.rx": "0"
+				}
+			]
+		},
+		{
+			"part": "knob",
+			"id": "knob",
+			"invertAxis": "xy",
+			"translate": [-8, -6, 8],
+			"submodels": [
+				{
+					"id": "knob_rotation",
+					"invertAxis": "xy",
+					"translate": [0, 7, 0],
+					"rotate": [-180, 0, 0],
+					"boxes": [
+						{"coordinates": [-1, -4, 7, 2, 4, 1], "textureOffset": [0, 0]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"knob_rotation.rx": "0"
+				}
+			]
+		},
+		{
+			"part": "lid",
+			"id": "lid",
+			"invertAxis": "xy",
+			"translate": [-8, -29, 7],
+			"submodels": [
+				{
+					"id": "lid_rotation",
+					"invertAxis": "xy",
+					"translate": [0, 19, 0],
+					"rotate": [-180, 0, 0],
+					"boxes": [
+						{"coordinates": [-7, 5, -7, 2, 5, 14], "textureOffset": [84, 16]},
+						{"coordinates": [-5, 5, -7, 10, 5, 2], "textureOffset": [40, 71]},
+						{"coordinates": [-5, 5, 5, 10, 5, 2], "textureOffset": [40, 64]},
+						{"coordinates": [-5, 5, -5, 10, 4, 10], "textureOffset": [28, 19]},
+						{"coordinates": [5, 5, -7, 2, 5, 14], "textureOffset": [52, 16]},
+						{"coordinates": [6.25, 9, -6.75, 1, 1, 13], "textureOffset": [116, 74]},
+						{"coordinates": [-6.75, 9, 6.25, 13, 1, 1], "textureOffset": [116, 74]},
+						{"coordinates": [-6.75, 9, -7.25, 13, 1, 1], "textureOffset": [116, 74]},
+						{"coordinates": [-7.25, 4.5, -6.75, 1, 1, 14], "textureOffset": [116, 74]},
+						{"coordinates": [6.25, 4.5, -6.75, 1, 1, 14], "textureOffset": [116, 74]},
+						{"coordinates": [6.25, 4.5, -7.25, 1, 1, 1], "textureOffset": [116, 74]},
+						{"coordinates": [-7.25, 4.5, -7.25, 1, 1, 1], "textureOffset": [116, 74]},
+						{"coordinates": [-7.25, 9, -6.75, 1, 1, 13], "textureOffset": [116, 74]},
+						{"coordinates": [-7.25, 5, 6.25, 1, 5, 1], "textureOffset": [116, 74]},
+						{"coordinates": [6.25, 5, 6.25, 1, 5, 1], "textureOffset": [116, 74]},
+						{"coordinates": [-7.25, 5, -7.25, 1, 5, 1], "textureOffset": [116, 74]},
+						{"coordinates": [6.25, 5, -7.25, 1, 5, 1], "textureOffset": [116, 74]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"lid_rotation.rx": "0"
+				}
+			]
+		}
+	]
+}

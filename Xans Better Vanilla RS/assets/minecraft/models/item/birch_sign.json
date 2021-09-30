@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_sign",
+  "textures": {
+    "all": "minecraft:entity/signs/birch"
+  }
+}

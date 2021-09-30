@@ -1,0 +1,60 @@
+{
+	"textures": {
+		"particle": "#all"
+	},
+	"elements": [
+		{
+			"name": "board",
+			"from": [-4, 14, 7],
+			"to": [20, 26, 9],
+			"faces": {
+				"north": {"uv": [0.5, 1, 6.5, 7], "texture": "#all"},
+				"east": {"uv": [0, 1, 0.5, 7], "texture": "#all"},
+				"south": {"uv": [7, 1, 13, 7], "texture": "#all"},
+				"west": {"uv": [6.5, 1, 7, 7], "texture": "#all"},
+				"up": {"uv": [0.5, 0, 6.5, 1], "rotation": 180, "texture": "#all"},
+				"down": {"uv": [6.5, 0, 12.5, 1], "texture": "#all"}
+			}
+		},
+		{
+			"name": "stick",
+			"from": [7, 0, 7],
+			"to": [9, 14, 9],
+			"faces": {
+				"north": {"uv": [0.5, 8, 1, 15], "texture": "#all"},
+				"east": {"uv": [0, 8, 0.5, 15], "texture": "#all"},
+				"south": {"uv": [1.5, 8, 2, 15], "texture": "#all"},
+				"west": {"uv": [1, 8, 1.5, 15], "texture": "#all"},
+				"down": {"uv": [1, 7, 1.5, 8], "texture": "#all"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 2, 0.5],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 135, 0],
+			"translation": [0, -3.5, 0],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"fixed": {
+			"translation": [0, -2.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_boots",
+  "textures": {
+    "all": "minecraft:models/armor/iron_layer_1"
+  }
+}

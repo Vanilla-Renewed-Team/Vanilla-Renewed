@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/t_fence_inventory",
+	"textures": {
+		"0": "minecraft:block/warped_planks",
+		"1": "minecraft:block/warped_stem"
+	}
+}

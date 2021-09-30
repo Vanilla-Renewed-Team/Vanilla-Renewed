@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/large_cross",
+  "textures": {
+    "top": "minecraft:block/peony_top",
+    "bottom": "minecraft:block/peony_bottom"
+  }
+}

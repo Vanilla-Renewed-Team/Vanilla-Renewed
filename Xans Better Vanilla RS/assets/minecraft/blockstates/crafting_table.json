@@ -1,0 +1,14 @@
+{
+	"variants": {
+        "": [
+            { "model": "block/crafting_table/crafting_table1", "weight": 2 },
+			{ "model": "block/crafting_table/crafting_table2", "weight": 2 },
+			{ "model": "block/crafting_table/crafting_table3", "weight": 2 },
+			{ "model": "block/crafting_table/crafting_table4", "weight": 2 },
+			{ "model": "block/crafting_table/crafting_table5", "weight": 2 },
+			{ "model": "block/crafting_table/crafting_table6", "weight": 2 },
+			{ "model": "block/crafting_table/crafting_table8", "weight": 2 },
+			{ "model": "block/crafting_table/crafting_table7", "weight": 2 }
+        ]
+    }
+}

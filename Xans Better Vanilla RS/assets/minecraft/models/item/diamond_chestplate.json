@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_chestplate",
+  "textures": {
+    "all": "minecraft:models/armor/diamond_layer_1"
+  }
+}

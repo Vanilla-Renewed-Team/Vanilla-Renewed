@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_chestplate",
+  "textures": {
+    "all": "minecraft:models/armor/netherite_layer_1"
+  }
+}

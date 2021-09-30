@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_helmet",
+  "textures": {
+    "all": "minecraft:models/armor/iron_layer_1"
+  }
+}

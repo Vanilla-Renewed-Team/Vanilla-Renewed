@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_helmet",
+  "textures": {
+    "all": "minecraft:models/armor/turtle_layer_1"
+  }
+}

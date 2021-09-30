@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_boat",
+  "textures": {
+    "boat": "minecraft:entity/boat/oak"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "level=0": {
+      "model": "minecraft:block/cauldron"
+    },
+    "level=1": [
+    { "model": "minecraft:block/cauldron_level1" },
+    { "model": "minecraft:block/cauldron_level1_2" },
+    { "model": "minecraft:block/cauldron_level1_3" }
+  ],
+    "level=2": [
+    { "model": "minecraft:block/cauldron_level2" },
+    { "model": "minecraft:block/cauldron_level2_2" },
+    { "model": "minecraft:block/cauldron_level2_3" }
+  ],
+    "level=3": [
+    { "model": "minecraft:block/cauldron_level3" },
+    { "model": "minecraft:block/cauldron_level3_2" },
+    { "model": "minecraft:block/cauldron_level3_3" }
+  ]
+ }
+}

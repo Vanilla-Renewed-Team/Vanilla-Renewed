@@ -1,0 +1,19 @@
+{
+  "multipart": [
+    {"apply": [
+      {"model": "minecraft:block/wither_pot_1"},
+      {"model": "minecraft:block/wither_pot_2"},
+      {"model": "minecraft:block/wither_pot_3"},
+      {"model": "minecraft:block/wither_pot_4"},
+      {"model": "minecraft:block/wither_pot_5"}
+              ]
+    },
+    {"apply": [
+    { "model": "minecraft:block/potted_wither_rose_1" },
+    { "model": "minecraft:block/potted_wither_rose_2" },
+    { "model": "minecraft:block/potted_wither_rose_3" }
+              ]
+    }
+               ]
+}
+"credit": "Made by Ensis"

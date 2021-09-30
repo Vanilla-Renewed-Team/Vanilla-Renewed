@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_wallflat",
+  "textures": {
+    "wallflat": "minecraft:block/glow_lichen"
+  }
+}
