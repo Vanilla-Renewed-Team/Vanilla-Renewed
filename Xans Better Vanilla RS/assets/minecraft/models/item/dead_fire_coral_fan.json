@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/cross",
-  "textures": {
-    "cross": "minecraft:block/dead_fire_coral_fan"
-  }
-}

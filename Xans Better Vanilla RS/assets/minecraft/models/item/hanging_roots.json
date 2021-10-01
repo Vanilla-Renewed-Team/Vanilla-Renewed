@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/cross",
-    "textures": {
-      "cross": "minecraft:block/hanging_roots"
-    }
-}

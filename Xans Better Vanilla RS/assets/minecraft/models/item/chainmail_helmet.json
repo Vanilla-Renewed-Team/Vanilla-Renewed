@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/template_helmet",
-  "textures": {
-    "all": "minecraft:models/armor/chainmail_layer_1"
-  }
-}

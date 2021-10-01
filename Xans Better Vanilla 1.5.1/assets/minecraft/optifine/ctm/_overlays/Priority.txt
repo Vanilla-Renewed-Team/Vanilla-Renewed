@@ -1,0 +1,16 @@
+stone=1
+andesite=2
+diorite=3
+granite=4
+
+dirt=50
+netherrack=51
+sand=52
+gravel=53
+
+grass=100
+grass_overlay=101
+podzol=102
+mycelium=105
+crimson_nylium=106
+warped_nylium=107

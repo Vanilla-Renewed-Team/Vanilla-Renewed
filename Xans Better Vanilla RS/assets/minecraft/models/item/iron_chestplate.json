@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/template_chestplate",
-  "textures": {
-    "all": "minecraft:models/armor/iron_layer_1"
-  }
-}

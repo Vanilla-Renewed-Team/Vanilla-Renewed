@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/template_leggings",
-  "textures": {
-    "all": "minecraft:models/armor/diamond_layer_2"
-  }
-}

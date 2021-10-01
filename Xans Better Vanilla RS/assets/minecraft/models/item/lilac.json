@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/large_cross",
-  "textures": {
-    "top": "minecraft:block/lilac_top",
-    "bottom": "minecraft:block/lilac_bottom"
-  }
-}

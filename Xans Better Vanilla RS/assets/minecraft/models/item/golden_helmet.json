@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/template_helmet",
-  "textures": {
-    "all": "minecraft:models/armor/gold_layer_1"
-  }
-}

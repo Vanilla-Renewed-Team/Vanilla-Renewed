@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/template_tinted_flat",
-  "textures": {
-    "flat": "minecraft:block/lily_pad"
-  }
-}
