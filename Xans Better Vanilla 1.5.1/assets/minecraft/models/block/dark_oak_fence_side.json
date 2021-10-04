@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/t_fence_side",
-	"textures": {
-		"0": "minecraft:block/dark_oak_planks"
-	}
-}

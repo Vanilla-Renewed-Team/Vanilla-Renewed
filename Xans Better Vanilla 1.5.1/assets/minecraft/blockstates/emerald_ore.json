@@ -1,8 +1,0 @@
-{
-	"variants": {
-        "": [
-            { "model": "block/ore/emerald_ore", "weight": 2 },
-			{ "model": "block/ore/emerald_ore_legacy", "weight": 2 }
-        ]
-    }
-}

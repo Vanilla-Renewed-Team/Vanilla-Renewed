@@ -1,7 +1,0 @@
-{
-	"parent": "minecraft:block/t_fence_gate_open",
-	"textures": {
-		"0": "minecraft:block/spruce_planks",
-		"1": "minecraft:block/spruce_log"
-	}
-}
