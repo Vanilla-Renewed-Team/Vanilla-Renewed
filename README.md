@@ -34,7 +34,7 @@ We have added tons of smaller things that are to many to go over, the eventual h
 
 >Snow has had the blue tint removed from it
 
->Some locks now have variation.
+>Some Bocks now have variation.
 
 >Some blocks now have connected textures.
 
