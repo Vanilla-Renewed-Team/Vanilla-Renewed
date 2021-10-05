@@ -2,35 +2,68 @@
  A collection of minecraft java packs for 1.17.1 to improve the game's overall feel without making it overbearing.
 
 
-Disclaimer:
-This pack is made for 1.17 if you recieve an error saying that one of the packs are outdated just click apply anyway
-Also; this is just a prototype there will be improvements and changes made down the line. Be sure to apply all of the custom models BEFORE you apply your own res pack <3
+Hello and welcome to better vanilla! 
 
-Instructions:
-For the resource pack follow the instuctions on the EXE installation
+This is a project designed on very minor reworks to the current game system to improve the general gameplay and feel of minecraft, From item reworks to texutre fixes and maybe the occasional 3d model where it suits.
 
--For Shaders-
-Open your mc; go to settings > Video > Shader Packs
-On the bottom right click open folder and drag the entire contents of this pack into the directory listed above <3
-(Until the installation file is made)
+The goal is to have a future-compatable hard to notice adjustment. Something you wont notice while you have it but youll notice it when its gone kinda thing. 
 
-You must use optifine in order to get the shaderpacks to work. Find online documentation here https://www.pwrdown.com/gaming/how-to-install-optifine-for-minecraft-guide-for-all-versions/
+We have added tons of smaller things that are to many to go over, the eventual hope is that you wont notice it to be much different from the normal game. A very small list of what we've changed are.
 
-RTX:
-Use shader pack SEUS PTGI E12 for RTX based shaders
-otherwise use SEUS-Renewed-v1.0.1 for standard shaders
-You also have the option to run Silders Vibrant Shaders witch is a very lite shader pack. Good for low end pcs
+>General Sound overhauls
 
-Made by Xanthus58 (and Wolfen) with love <3
+>watermelon and pumpkin stems now match the color of the fruit they produce.
+
+>Better wool textures and upgrades
+
+>Darker dark oak planks
+
+>Horizontal item nuggets gold iron etc
+
+>Brown leather and all of the associated items.
+
+>Banners on shields now display properly
+
+>Arrows now have a black tip to represent the flint that's required to craft them.
+
+>Polished granite and andesite now show as bricks. 
+
+>Water and leaves now sway in the wind. 
+
+>The sun and moon are now round.
+
+>Snow has had the blue tint removed from it
+
+>Some Bocks now have variation.
+
+>Some blocks now have connected textures.
+
+>The crosshair has been changed to a dot.
+
+>Dark UI
+
+>Various small fixes and tweaks (Such as not eating the wood from soup. or fixing the bottom of blaze's)
+
+Thank you for your understanding and support in our redesign if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else contact me on discord Xanthus58#3862
+
+Comes with optifine 1.17 and an install guide along with jarfix just incase something goes wrong. All rights reserved for optifine and the shaders provided 
+
+Below are my personal recommended shaders and their associated links.
+
+https://www.optifine.net/home
+
+https://www.sonicether.com/seus/
+
+https://sildurs-shaders.github.io/
+
+All of the aforementioned shaders rely on optifine.
+
+SEUS PTGI is an experimental version of SEUS that includes a totally custom software implementation of ray tracing that does not require an RTX graphics card and will work on any NVIDIA graphics card (though low-end cards may struggle with performance. AMD compatibility is still being worked on). The “PTGI” in the name stands for “Path Traced Global Illumination”, which is the main feature of this project. It also includes ray traced reflections.
+
+SEUS Renewed is a reinvention of the legacy versions of SEUS that brings you quality visuals at a reasonable performance using traditional rasterization-based rendering methods. There are some unreleased development versions of SEUS Renewed, but most of my development time lately goes into developing SEUS PTGI.
+
+Sildur's Shaders is an extension of the GLSL shader mod for Minecraft, now part of Optifine.
+Vibrant shaders completely revamps the lighting system of Minecraft and adds advanced effects like volumetric lighting, bloom, ambient occlusion and reflections. While still maintaining high performance.
 
 
-Some demo images <3
-
-![Base Profile Screenshot 2021 09 30 - 16 04 32 73](https://user-images.githubusercontent.com/66909997/135400226-a90d516a-b071-4c63-b748-677cf13545bd.png)
-![Base Profile Screenshot 2021 09 30 - 16 05 36 87](https://user-images.githubusercontent.com/66909997/135400229-676b669c-db92-41d4-a995-ab71ff48c149.png)
-![Base Profile Screenshot 2021 09 30 - 16 06 18 04](https://user-images.githubusercontent.com/66909997/135400231-623ea364-6061-418e-8e05-e0ab5a947fa1.png)
-![Base Profile Screenshot 2021 09 30 - 16 06 54 10](https://user-images.githubusercontent.com/66909997/135400236-e586a104-6712-4d15-b91c-27c591f53681.png)
-![Base Profile Screenshot 2021 09 30 - 15 58 49 43](https://user-images.githubusercontent.com/66909997/135400244-22a0a80f-64d1-493a-a11f-7649c234b8b6.png)
-![Base Profile Screenshot 2021 09 30 - 16 00 36 18](https://user-images.githubusercontent.com/66909997/135400272-4a83c636-dec6-4062-b37b-b47d1913ef19.png)
-![Capture](https://user-images.githubusercontent.com/66909997/135541635-36244a2a-cb03-4406-987d-265a73a2aae7.PNG)
-![Capture](https://user-images.githubusercontent.com/66909997/135541703-4c5a8f31-09e6-4783-9983-7ea932a2ea9f.PNG)
+I hope you enjoy your time with better vanilla and thank you for checking it out! If you have any questions or suggestions be sure to post them here or message me on discord Xanthus58#3862
