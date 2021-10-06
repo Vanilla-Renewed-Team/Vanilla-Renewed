@@ -12,8 +12,6 @@ The goal is to have a future-compatable hard to notice adjustment. Something you
 
 We have added tons of smaller things that are to many to go over, the eventual hope is that you wont notice it to be much different from the normal game. A very small list of what we've changed are.
 
->General Sound overhauls
-
 >watermelon and pumpkin stems now match the color of the fruit they produce.
 
 >Better wool textures and upgrades
