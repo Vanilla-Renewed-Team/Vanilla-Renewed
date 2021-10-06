@@ -1,54 +1,14 @@
 {
-  "variants": {
-    "": [
-      {
-        "model": "block/dirt/block/0"
-      },
-      {
-        "model": "block/dirt/block/1"
-      },
-      {
-        "model": "block/dirt/block/2"
-      },
-      {
-        "model": "block/dirt/block/3"
-      },
-      {
-        "model": "block/dirt/block/4"
-      },
-      {
-        "model": "block/dirt/block/5"
-      },
-      {
-        "model": "block/dirt/block/6"
-      },
-      {
-        "model": "block/dirt/block/7"
-      },
-      {
-        "model": "block/dirt/block/8"
-      },
-      {
-        "model": "block/dirt/block/9"
-      },
-      {
-        "model": "block/dirt/block/10"
-      },
-      {
-        "model": "block/dirt/block/11"
-      },
-      {
-        "model": "block/dirt/block/12"
-      },
-      {
-        "model": "block/dirt/block/13"
-      },
-      {
-        "model": "block/dirt/block/14"
-      },
-      {
-        "model": "block/dirt/block/15"
-      }
-    ]
-  }
+    "variants": {
+        "": [ { "model": "block/dirt", "weight":300 }
+,{ "model": "block/dirt/dirt_0", "weight":2 }
+,{ "model": "block/dirt/dirt_1", "weight":2 }
+,{ "model": "block/dirt/dirt_2", "weight":2 }
+,{ "model": "block/dirt/dirt_3", "weight":2 }
+,{ "model": "block/dirt/dirt_4", "weight":2 }
+,{ "model": "block/dirt/dirt_5", "weight":1 }
+,{ "model": "block/dirt/dirt_6", "weight":1 }
+,{ "model": "block/dirt/dirt_7", "weight":1 }
+,{ "model": "block/dirt/dirt_9", "weight":1 }
+ ]   }
 }
