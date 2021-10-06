@@ -1,0 +1,8 @@
+{
+  "conditions": [
+    "enhanced_vanilla:bushyLeaves"
+  ],
+  "fallbacks": [
+    "assets/minecraft/blockstates/azalea_leaves_v.json"
+  ]
+}

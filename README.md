@@ -6,11 +6,11 @@ Hello and welcome to better vanilla!
 
 This is a project designed on very minor reworks to the current game system to improve the general gameplay and feel of minecraft, From item reworks to texutre fixes and maybe the occasional 3d model where it suits.
 
+It is highly reccomended to use optifine not only for performence upgrades but for compatability. You may not get the intended effect without it.
+
 The goal is to have a future-compatable hard to notice adjustment. Something you wont notice while you have it but youll notice it when its gone kinda thing. 
 
 We have added tons of smaller things that are to many to go over, the eventual hope is that you wont notice it to be much different from the normal game. A very small list of what we've changed are.
-
->General Sound overhauls
 
 >watermelon and pumpkin stems now match the color of the fruit they produce.
 
@@ -41,6 +41,12 @@ We have added tons of smaller things that are to many to go over, the eventual h
 >The crosshair has been changed to a dot.
 
 >Dark UI
+
+>Connected textures
+
+>Small texture updates and upgrades
+
+>Useful stuff like arrows on hoppers to display direction and food now displaying how much hunger they give.
 
 >Various small fixes and tweaks (Such as not eating the wood from soup. or fixing the bottom of blaze's)
 

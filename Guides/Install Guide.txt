@@ -1,0 +1,5 @@
+-Automatic installation-
+
+Locate your resource pack minecraft folder (Win+R %appdata% > .minecraft > resourcepacks)
+
+Copy the full path (click at the top highlight it all right click and copy. Then paste when prompted for an install location.)

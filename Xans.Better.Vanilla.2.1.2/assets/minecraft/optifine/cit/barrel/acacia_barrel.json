@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "optifine/ctm/barrel/acacia_barrel_top",
+    "bottom": "optifine/ctm/barrel/acacia_barrel_bottom",
+    "side": "optifine/ctm/barrel/acacia_barrel_side"
+  }
+}
