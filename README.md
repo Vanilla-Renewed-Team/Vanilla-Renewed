@@ -44,6 +44,12 @@ We have added tons of smaller things that are to many to go over, the eventual h
 
 >Dark UI
 
+>Connected textures
+
+>Small texture updates and upgrades
+
+>Useful stuff like arrows on hoppers to display direction and food now displaying how much hunger they give.
+
 >Various small fixes and tweaks (Such as not eating the wood from soup. or fixing the bottom of blaze's)
 
 Thank you for your understanding and support in our redesign if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else contact me on discord Xanthus58#3862
