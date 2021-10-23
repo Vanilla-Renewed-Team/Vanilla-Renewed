@@ -72,4 +72,4 @@ Sildur's Shaders is an extension of the GLSL shader mod for Minecraft, now part 
 Vibrant shaders completely revamps the lighting system of Minecraft and adds advanced effects like volumetric lighting, bloom, ambient occlusion and reflections. While still maintaining high performance.
 
 
-I hope you enjoy your time with better vanilla and thank you for checking it out! If you have any questions or suggestions be sure to post them here or message me on discord Xanthus58#3862
+I hope you enjoy your time with better vanilla and thank you for checking it out! If you have any questions or suggestions be sure to post them here or message me on discord Xanthus#3862
