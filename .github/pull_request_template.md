@@ -1,13 +1,5 @@
----
-name: Pull Request
-about: Create a pull request to help us improve our project
-title: ''
-labels: ''
-assignees: ''
+**Describe what your pull request Fixes/Adds**
 
----
-
-**Describe what you pull request Fixes/Adds**
 Please link an issue/feature report if possible
 -
 ### Please verify you have completed the requirements
