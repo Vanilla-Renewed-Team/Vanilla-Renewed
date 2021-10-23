@@ -1,19 +1,27 @@
 ---
-name: Pull Request
-about: Create a pull request to help us improve our project
+name: Bug report
+about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe what you pull request adds/changes**
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-### Please verify you have completed the requirements
-- [ ] Verified that the feature/bug isn't being worked on
-- [ ] Verified that the feature/bug hasn't been reported before
-- [ ] Verified the stability of the change / bug fixed any errors with introducing your change
-- [ ] Agree that your code/change will be publicly available and freely editable by anyone
-- [ ] Agree to follow the MIT license 
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-**If you have successfully passed every requirement you may submit your change.**
+**Expected behavior**
+A clear and concise description of what you expected to happen.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Additional context**
+Add any other context about the problem here.
