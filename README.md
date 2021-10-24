@@ -60,8 +60,6 @@ https://www.sonicether.com/seus/
 
 https://sildurs-shaders.github.io/
 
-All of the aforementioned shaders rely on optifine.
-
 SEUS PTGI is an experimental version of SEUS that includes a totally custom software implementation of ray tracing that does not require an RTX graphics card and will work on any NVIDIA graphics card (though low-end cards may struggle with performance. AMD compatibility is still being worked on). The “PTGI” in the name stands for “Path Traced Global Illumination”, which is the main feature of this project. It also includes ray traced reflections.
 
 SEUS Renewed is a reinvention of the legacy versions of SEUS that brings you quality visuals at a reasonable performance using traditional rasterization-based rendering methods. There are some unreleased development versions of SEUS Renewed, but most of my development time lately goes into developing SEUS PTGI.
@@ -69,5 +67,7 @@ SEUS Renewed is a reinvention of the legacy versions of SEUS that brings you qua
 Sildur's Shaders is an extension of the GLSL shader mod for Minecraft, now part of Optifine.
 Vibrant shaders completely revamps the lighting system of Minecraft and adds advanced effects like volumetric lighting, bloom, ambient occlusion and reflections. While still maintaining high performance.
 
+All of the aforementioned shaders rely on optifine.
 
-I hope you enjoy your time with better vanilla and thank you for checking it out! If you have any questions or suggestions be sure to post them here or message me on discord Xanthus#3862
+
+I hope you enjoy your time with better vanilla and thank you for checking it out! If you have any questions or suggestions be sure to post them here or message me on discord Xanthus#3862 or email me on Xanthus58@protonmail.com
