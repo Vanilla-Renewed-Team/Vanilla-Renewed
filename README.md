@@ -1,7 +1,3 @@
-# Better-Vanilla
- A collection of minecraft java packs for 1.17.1 to improve the game's overall feel without making it overbearing.
-
-
 Hello and welcome to better vanilla! 
 
 This is a project designed on very minor reworks to the current game system to improve the general gameplay and feel of minecraft, From item reworks to texutre fixes and maybe the occasional 3d model where it suits.
