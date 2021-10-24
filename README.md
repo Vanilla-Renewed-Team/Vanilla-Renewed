@@ -18,21 +18,21 @@ We have added tons of smaller things that are to many to go over, the eventual h
 
 >Darker dark oak planks
 
->Horizontal item nuggets gold iron etc
+>Unified item nuggets gold iron etc
 
 >Brown leather and all of the associated items.
 
 >Banners on shields now display properly
 
->Arrows now have a black tip to represent the flint that's required to craft them.
+>Arrows now have a black tip to represent the flint that's required to craft the them.
 
 >Polished granite and andesite now show as bricks. 
 
->Water and leaves now sway in the wind. 
+>Water and leaves now sway in the wind.
 
 >The sun and moon are now round.
 
->Snow has had the blue tint removed from it
+>Snow has had the blue tint removed from it.
 
 >Some Bocks now have variation.
 
@@ -40,19 +40,17 @@ We have added tons of smaller things that are to many to go over, the eventual h
 
 >The crosshair has been changed to a dot.
 
->Dark UI
+>Dark UI.
 
->Connected textures
+>Small texture updates and upgrades.
 
->Small texture updates and upgrades
+>Various small QOL stuff like arrows on hoppers to display direction and food now displaying how much hunger they give.
 
->Useful stuff like arrows on hoppers to display direction and food now displaying how much hunger they give.
+>Various small fixes and tweaks; Such as not eating the wood from soup. or fixing the bottom of the blaze's rods (entity not the item)
 
->Various small fixes and tweaks (Such as not eating the wood from soup. or fixing the bottom of blaze's)
+Thank you for your understanding and support in our redesign if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else contact me on discord Xanthus#3862 or email me on Xanthus58@protonmail.com
 
-Thank you for your understanding and support in our redesign if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else contact me on discord Xanthus58#3862
-
-Comes with optifine 1.17 and an install guide along with jarfix just incase something goes wrong. All rights reserved for optifine and the shaders provided 
+Optifine is mandatory for the intended experience; without optifine you may have unexpected bugs, errors, or missing features.
 
 Below are my personal recommended shaders and their associated links.
 
