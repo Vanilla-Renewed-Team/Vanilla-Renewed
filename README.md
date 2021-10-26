@@ -42,7 +42,7 @@ We have added tons of smaller things that are to many to go over, the eventual h
 
 >Various small QOL stuff like arrows on hoppers to display direction and food now displaying how much hunger they give.
 
->Various small fixes and tweaks; Such as not eating the wood from soup. or fixing the bottom of the blaze's rods (entity not the item)
+>Various small fixes and tweaks like tons of zfighting; fixing the bottom of the blaze's rods (entity not the item) Etc.
 
 Thank you for your understanding and support in our redesign if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else contact me on discord Xanthus#3862 or email me on Xanthus58@protonmail.com
 
