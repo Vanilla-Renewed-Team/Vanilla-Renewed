@@ -1,5 +1,9 @@
 Hello and welcome to better vanilla! 
 
+We do have winget implementation for fully automatic instillation just open CMD/CLI/Powershell and type "Winget install Xanthus58.XansBetterVanilla"
+
+this is a highly reccomended install method. However all the other alternitives will still be published
+
 This is a project designed on very minor reworks to the current game system to improve the general gameplay and feel of minecraft, From item reworks to texutre fixes and maybe the occasional 3d model where it suits.
 
 It is highly reccomended to use optifine not only for performence upgrades but for compatability. You may not get the intended effect without it.
