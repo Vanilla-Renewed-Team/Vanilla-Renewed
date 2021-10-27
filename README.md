@@ -12,13 +12,13 @@ The goal is to have a future-compatable hard to notice adjustment. Something you
 
 We have added tons of smaller things that are to many to go over, the eventual hope is that you wont notice it to be much different from the normal game. A very small list of what we've changed are.
 
->watermelon and pumpkin stems now match the color of the fruit they produce.
+>Watermelon and pumpkin stems now match the color of the fruit they produce.
 
 >Better wool textures and upgrades
 
 >Darker dark oak planks
 
->Unified item nuggets gold iron etc
+>Consistency across various items, features
 
 >Brown leather and all of the associated items.
 
@@ -34,7 +34,7 @@ We have added tons of smaller things that are to many to go over, the eventual h
 
 >Snow has had the blue tint removed from it.
 
->Some Bocks now have variation.
+>Some Blocks now have variation.
 
 >Some blocks now have connected textures.
 
