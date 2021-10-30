@@ -48,7 +48,7 @@ We have added tons of smaller things that are to many to go over, the eventual h
 
 >Various small fixes and tweaks like tons of zfighting; fixing the bottom of the blaze's rods (entity not the item) Etc.
 
-Thank you for your understanding and support in our redesign if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else contact email us on BetterVanillaTeam@pm.me
+Thank you for your understanding and support in our redesign if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else contact email us on VanillaRenewed@pm.me
 
 Optifine is mandatory for the intended experience; without optifine you may have unexpected bugs, errors, or missing features.
 
@@ -70,4 +70,4 @@ Vibrant shaders completely revamps the lighting system of Minecraft and adds adv
 All of the aforementioned shaders rely on optifine.
 
 
-I hope you enjoy your time with better vanilla and thank you for checking it out! If you have any questions or suggestions be sure to post them here or message me on discord Xanthus#3862 or email us on BetterVanillaTeam@pm.me
+I hope you enjoy your time with better vanilla and thank you for checking it out! If you have any questions or suggestions be sure to post them here or message me on discord Xanthus#3862 or email us on VanillaRenewed@pm.me
