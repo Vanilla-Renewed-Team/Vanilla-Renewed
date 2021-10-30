@@ -1,4 +1,4 @@
-Hello and welcome to better vanilla! 
+Hello and welcome to Vanilla Renewed! 
 
 We do have winget implementation for fully automatic instillation just open CMD/CLI/Powershell and type "Winget install Xanthus58.XansBetterVanilla"
 
@@ -70,4 +70,4 @@ Vibrant shaders completely revamps the lighting system of Minecraft and adds adv
 All of the aforementioned shaders rely on optifine.
 
 
-I hope you enjoy your time with better vanilla and thank you for checking it out! If you have any questions or suggestions be sure to post them here or message me on discord Xanthus#3862 or email us on VanillaRenewed@pm.me
+I hope you enjoy your time with Vanilla Renewed and thank you for checking it out! If you have any questions or suggestions be sure to post them here or message me on discord Xanthus#3862 or email us on VanillaRenewed@pm.me
