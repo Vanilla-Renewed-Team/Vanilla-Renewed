@@ -3,19 +3,21 @@
 
 ![Vanilla Renewed Logo](https://user-images.githubusercontent.com/66909997/139557610-8005dc86-4a37-46fd-8544-320ee78941a4.png)
 
-## We do have winget implementation for fully automatic instillation just open CMD/CLI/Powershell and type "Winget install Xanthus58.XansBetterVanilla"
+## We do have winget implementation for fully automatic installation just open CMD/CLI/Powershell and type "Winget install Xanthus58.XansBetterVanilla"
 this is a highly reccomended install method. However all the other alternitives will still be published
 
-### This is a project designed on very minor reworks to the current game system to improve the general gameplay and feel of minecraft.
-From item reworks to texutre fixes and new features like degraded items or custom textures.
+![You may also download the installer here!](https://github.com/Xanthus58/Vanilla-Renewed/releases/download/1.17.1-2.1.6/Xans.Better.Vanilla.exe)
 
-## It is highly reccomended to use optifine not only for performence upgrades but for compatability. You may not get the intended effect without it.
+### This is a project designed on very minor reworks to the current game system to improve the general gameplay and feel of minecraft.
+From item reworks to texture fixes and new features like degraded items or custom textures.
+
+## It is highly recommended to use optifine not only for performance upgrades but for compatability. You may not get the intended effect without it.
 
 ### The goal is to have a future-compatable hard to notice adjustment. 
-Something you wont notice while you have it but youll notice it when its gone kinda thing. 
+Something you wont notice while you have it but you'll notice it when its gone kinda thing. 
 
 ### We have added tons of *smaller things* that are to many to go over, *A very small list of what we've changed are.*
->Tool degridation
+>Tool degradation
 
 >Dark UI
 
@@ -53,7 +55,8 @@ Something you wont notice while you have it but youll notice it when its gone ki
 
 >Various small fixes and tweaks like tons of zfighting; fixing the bottom of the blaze's rods (entity not the item) Etc.
 
-# Thank you for your understanding and support in our redesign if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else contact email us on VanillaRenewed@pm.me
+## Thank you for your understanding and support in our redesign.
+if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else email us on VanillaRenewed@pm.me
 
 Optifine is mandatory for the intended experience; without optifine you may have unexpected bugs, errors, or missing features.
 
