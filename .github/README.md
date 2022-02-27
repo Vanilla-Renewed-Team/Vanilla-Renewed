@@ -3,10 +3,10 @@
 
 ![Vanilla Renewed Logo](https://user-images.githubusercontent.com/66909997/139557610-8005dc86-4a37-46fd-8544-320ee78941a4.png)
 
-## We do have winget implementation for fully automatic installation just open CMD/CLI/Powershell and type "Winget install Xanthus58.XansBetterVanilla"
+## We do have winget implementation for fully automatic installation just open CMD/CLI/Powershell and type `"Winget install Xanthus58.XansBetterVanilla"`
 this is a highly reccomended install method. However all the other alternitives will still be published
 
-![You may also download the installer here!](https://github.com/Xanthus58/Vanilla-Renewed/releases/download/1.17.1-2.1.6/Xans.Better.Vanilla.exe)
+![You may also download the installer here!](https://github.com/Xanthus58/Vanilla-Renewed/releases)
 
 ### This is a project designed on very minor reworks to the current game system to improve the general gameplay and feel of minecraft.
 From item reworks to texture fixes and new features like degraded items or custom textures.
