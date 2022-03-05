@@ -37,7 +37,7 @@ Something you wont notice while you have it but you'll notice it when its gone k
 
 >Polished granite and andesite now show as bricks. 
 
->Water and leaves now sway in the wind.
+>Water now sway in the wind.
 
 >The sun and moon are now round.
 
