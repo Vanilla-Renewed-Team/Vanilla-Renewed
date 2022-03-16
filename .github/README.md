@@ -21,9 +21,17 @@ Something you wont notice while you have it but you'll notice it when its gone k
 
 >Dark UI
 
+>Stackable Items
+
+>The crosshair has been changed to a dot.
+
+>Some blocks now have connected textures.
+
+>Brown leather and all of the associated items.
+
 >Watermelon and pumpkin stems now match the color of the fruit they produce.
 
->Better wool textures and upgrades
+>Better wool textures
 
 >Darker dark oak planks
 
@@ -46,8 +54,6 @@ Something you wont notice while you have it but you'll notice it when its gone k
 >Some Blocks now have variation.
 
 >Some blocks now have connected textures.
-
->The crosshair has been changed to a dot.
 
 >Small texture updates and upgrades.
 
