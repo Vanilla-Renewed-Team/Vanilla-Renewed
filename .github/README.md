@@ -85,6 +85,13 @@ Vibrant shaders completely revamps the lighting system of Minecraft and adds adv
 
 Complementary is a Minecraft Java Edition shader pack based on Capt Tatsu's "BSL Shaders". The goal of Complementary is being good at everything. Performance, gameplay, beauty, compatibility; you name it. Complementary will try to provide you with the most issueless experience possible within the limitations of Optifine's shader pipeline. It runs reasonably fast, supports almost every GPU and driver, works well with mods that no one thought a shader pack could be compatible with, fixes problems that no other shader packs addressed before, doesn't disturb you with excessive effects, and most importantly, it looks good according to the users. If you're wondering about what's changed over BSL, you can check out the complete changelog from BSL to Complementary here: https://justpaste.it/2z91q
 
+### Extra Credits
+>Custom potions @PINPAL | https://pinpal.github.io/ | https://www.curseforge.com/minecraft/texture-packs/unique-potions
+
+>Various bug fixes and texture additions @WolfenXVII | https://github.com/WolfenXVII | https://github.com/Xanthus58/Vanilla-Renewed/commits?author=WolfenXVII
+
+>Custom Textures @Parzival2284 | https://github.com/Parzival2284 | https://github.com/Xanthus58/Vanilla-Renewed/commits?author=Parzival2284
+
 # All of the aforementioned shaders rely on optifine.
 
 
