@@ -1,0 +1,1 @@
+{userappdata}\.minecraft\resourcepacks\{#MyAppName}

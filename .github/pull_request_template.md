@@ -7,6 +7,6 @@ Please link an issue/feature report if possible
 - [ ] Verified that the bug/feature hasn't been reported before
 - [ ] Verified the stability of the feature/bug fixed any errors with introducing your change
 - [ ] Agree that your code/change will be publicly available and freely editable by anyone
-- [ ] Agree to follow the MIT license 
+- [ ] Agree to follow the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License 
 
 **If you have successfully passed every requirement you may submit your change.**
