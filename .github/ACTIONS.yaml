@@ -1,2 +1,0 @@
-- name: Download Minecraft jar
-  uses: autumnblazey/action-get-mc-jar@v1.0.1
