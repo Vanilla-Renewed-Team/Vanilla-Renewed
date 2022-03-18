@@ -15,10 +15,12 @@ jobs:
         uses: Sorrowfall/Resource-Packager@main
         with:
           # The name of the built pack
-          filename: VanillaRenewed
+          filename: XVR
           # The directories / files to be built into the pack
           # Directories take priority as they go down the list, replacing any files from the above directories
-          items: origin/Public-Release
+          items: |
+            pack_textures
+            pack_data
           # What directory to output files in
           output-folder: build
           # Whether or not to optimize .json (and .mcmeta json) files
@@ -26,14 +28,13 @@ jobs:
           # Whether or not to generate a Sha1 hash of the built pack 
           # Useful for server resource packs
           # default: false
-          gen-sha1: true
+          gen-sha1: false
       # copy-paste down to here
-      - name: Create Release
-        uses: meeDamian/github-release@2.0
+      - name: Publish
+        uses: EndBug/add-and-commit@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          name: ${{ github.event.head_commit.message }}
-          tag: 1.18.2
-          gzip: true
-          files: >
-            build/VanilaRenewed.zip
+          author_name: Builder[bot]
+          author_email: mail@unmail.com
+          branch: 'build'
+          branch_mode: create
+          message: 'Build pack(s)'
