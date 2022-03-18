@@ -1,0 +1,41 @@
+name: build-resource-pack
+on:
+  push:
+     branches: [ Public-Release ]
+  pull_request:
+     branches: [ Public-Release ]
+jobs:
+  check-bats-version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      # copy-paste this part for however many packs you want to build
+      - name: Build Pack
+        uses: Sorrowfall/Resource-Packager@main
+        with:
+          # The name of the built pack
+          filename: Vanilla Renewed
+          # The directories / files to be built into the pack
+          # Directories take priority as they go down the list, replacing any files from the above directories
+          items: Vanilla-Renewed/Vanilla Renewed/
+            pack_textures
+            pack_data
+          # What directory to output files in
+          output-folder: bin
+          # Whether or not to optimize .json (and .mcmeta json) files
+          optimize-jsons: true
+          # Whether or not to generate a Sha1 hash of the built pack 
+          # Useful for server resource packs
+          # default: false
+          gen-sha1: false
+      # copy-paste down to here
+      - name: Create Release
+        uses: meeDamian/github-release@2.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          name: ${{ github.event.head_commit.message }}
+          tag: test
+          gzip: false
+          files: >
+            output/VanillaRenewed.zip
