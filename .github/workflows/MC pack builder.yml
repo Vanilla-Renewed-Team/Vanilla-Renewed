@@ -38,4 +38,4 @@ jobs:
           tag: test
           gzip: false
           files: >
-            output/VanillaRenewed.zip
+            bin/VanillaRenewed.zip
