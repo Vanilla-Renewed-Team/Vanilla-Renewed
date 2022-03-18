@@ -19,8 +19,7 @@ jobs:
           # The directories / files to be built into the pack
           # Directories take priority as they go down the list, replacing any files from the above directories
           items: |
-            pack_textures
-            pack_data
+            Vanilla Renewed
           # What directory to output files in
           output-folder: build
           # Whether or not to optimize .json (and .mcmeta json) files
