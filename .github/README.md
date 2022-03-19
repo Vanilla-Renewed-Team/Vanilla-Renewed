@@ -21,7 +21,9 @@ Something you wont notice while you have it but you'll notice it when its gone k
 
 >Dark UI
 
->Stackable Items
+>Potions now have visable labels and colours are edited to match their effects better
+
+>Stackable Item textures
 
 >The crosshair has been changed to a dot.
 
