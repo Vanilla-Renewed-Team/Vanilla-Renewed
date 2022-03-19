@@ -63,10 +63,9 @@ Something you wont notice while you have it but you'll notice it when its gone k
 
 >Various small fixes and tweaks like tons of zfighting; fixing the bottom of the blaze's rods (entity not the item) Etc.
 
-## Thank you for your understanding and support in our redesign.
 if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else email us on VanillaRenewed@pm.me
 
-Optifine is mandatory for the intended experience; without optifine you may have unexpected bugs, errors, or missing features.
+#### Optifine is mandatory for the intended experience; without optifine you may have unexpected bugs, errors, or missing features.
 
 Below are my personal recommended shaders and their associated links.
 
