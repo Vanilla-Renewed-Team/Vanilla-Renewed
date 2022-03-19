@@ -93,8 +93,6 @@ Complementary is a Minecraft Java Edition shader pack based on Capt Tatsu's "BSL
 
 >Custom Textures @Parzival2284 | https://github.com/Parzival2284 | https://github.com/Xanthus58/Vanilla-Renewed/commits?author=Parzival2284
 
->Custom enchanted books @BenGamin98 | https://www.curseforge.com/minecraft/texture-packs/veg-enchanted-books
-
 # All of the aforementioned shaders rely on optifine.
 
 
