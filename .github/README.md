@@ -63,10 +63,9 @@ Something you wont notice while you have it but you'll notice it when its gone k
 
 >Various small fixes and tweaks like tons of zfighting; fixing the bottom of the blaze's rods (entity not the item) Etc.
 
-## Thank you for your understanding and support in our redesign.
 if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else email us on VanillaRenewed@pm.me
 
-Optifine is mandatory for the intended experience; without optifine you may have unexpected bugs, errors, or missing features.
+#### Optifine is mandatory for the intended experience; without optifine you may have unexpected bugs, errors, or missing features.
 
 Below are my personal recommended shaders and their associated links.
 
@@ -93,6 +92,8 @@ Complementary is a Minecraft Java Edition shader pack based on Capt Tatsu's "BSL
 >Various bug fixes and texture additions @WolfenXVII | https://github.com/WolfenXVII | https://github.com/Xanthus58/Vanilla-Renewed/commits?author=WolfenXVII
 
 >Custom Textures @Parzival2284 | https://github.com/Parzival2284 | https://github.com/Xanthus58/Vanilla-Renewed/commits?author=Parzival2284
+
+>Custom enchanted books @BenGamin98 | https://www.curseforge.com/minecraft/texture-packs/veg-enchanted-books
 
 # All of the aforementioned shaders rely on optifine.
 
