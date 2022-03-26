@@ -64,7 +64,23 @@ Something you wont notice while you have it but you'll notice it when its gone k
 >Various small fixes and tweaks like tons of zfighting; fixing the bottom of the blaze's rods (entity not the item) Etc.
 
 if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else email us on VanillaRenewed@pm.me
+### Book colour meanings
+Book Colours:
+>Grey - Armour
 
+>Red - Weapons (e.g: sharpness, smite)
+
+>Yellow - Tridents
+
+>Brown - Bows
+
+>Light Blue - Tools (e.g: fortune, efficiency)
+
+>Dark Blue - Fishing
+
+>Green - General (e.g: unbreaking, mending)
+
+>Dark Purple - Curses
 #### Optifine is mandatory for the intended experience; without optifine you may have unexpected bugs, errors, or missing features.
 
 Below are my personal recommended shaders and their associated links.
