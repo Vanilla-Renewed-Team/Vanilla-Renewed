@@ -1,4 +1,4 @@
-
+ 
 # Hello and welcome to Vanilla Renewed! 
 
 ![Vanilla Renewed Logo](https://user-images.githubusercontent.com/66909997/139557610-8005dc86-4a37-46fd-8544-320ee78941a4.png)
@@ -17,70 +17,68 @@ From item reworks to texture fixes and new features like degraded items or custo
 Something you wont notice while you have it but you'll notice it when its gone kinda thing. 
 
 ### We have added tons of *smaller things* that are to many to go over, *A very small list of what we've changed are.*
->Tool degradation
-
->Dark UI
-
->Potions now have visable labels and colours are edited to match their effects better
-
->Stackable Item textures
-
->The crosshair has been changed to a dot.
-
->Some blocks now have connected textures.
-
->Brown leather and all of the associated items.
-
->Watermelon and pumpkin stems now match the color of the fruit they produce.
-
->Better wool textures
-
->Darker dark oak planks
-
->Consistency across various items, features
-
->Brown leather and all of the associated items.
-
->Banners on shields now display properly
-
->Arrows now have a black tip to represent the flint that's required to craft the them.
-
->Polished granite and andesite now show as bricks. 
-
->Water now sway in the wind.
-
->The sun and moon are now round.
-
->Snow has had the blue tint removed from it.
-
->Some Blocks now have variation.
-
->Some blocks now have connected textures.
-
->Small texture updates and upgrades.
-
->Various small QOL stuff like arrows on hoppers to display direction and food now displaying how much hunger they give.
-
->Various small fixes and tweaks like tons of zfighting; fixing the bottom of the blaze's rods (entity not the item) Etc.
+> Tool degradation
+ 
+> Dark UI
+ 
+> Stackable Items
+ 
+> The crosshair has been changed to a dot.
+ 
+> Some blocks now have connected textures.
+ 
+> Brown leather and all of the associated items.
+ 
+> Watermelon and pumpkin stems now match the color of the fruit they produce.
+ 
+> Better wool textures
+ 
+> Darker dark oak planks
+ 
+> Consistency across various items, features
+ 
+> Brown leather and all of the associated items.
+ 
+> Banners on shields now display properly
+ 
+> Arrows now have a black tip to represent the flint that's required to craft the them.
+ 
+> Polished granite and andesite now show as bricks. 
+ 
+> Water and leaves now sway in the wind.
+ 
+> The sun and moon are now round.
+ 
+> Snow has had the blue tint removed from it.
+ 
+> Some Blocks now have variation.
+ 
+> Some blocks now have connected textures.
+ 
+> Small texture updates and upgrades.
+ 
+> Various small QOL stuff like arrows on hoppers to display direction and food now displaying how much hunger they give.
+ 
+> Various small fixes and tweaks like tons of zfighting; fixing the bottom of the blaze's rods (entity not the item) Etc.
 
 if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else email us on VanillaRenewed@pm.me
 ### Book colour meanings
 Book Colours:
->Grey - Armour
+> Grey - Armour
+ 
+> Red - Weapons (e.g: sharpness, smite)
+ 
+> Yellow - Tridents
+ 
+> Brown - Bows
+ 
+> Light Blue - Tools (e.g: fortune, efficiency)
+ 
+> Dark Blue - Fishing
+ 
+> Green - General (e.g: unbreaking, mending)
 
->Red - Weapons (e.g: sharpness, smite)
-
->Yellow - Tridents
-
->Brown - Bows
-
->Light Blue - Tools (e.g: fortune, efficiency)
-
->Dark Blue - Fishing
-
->Green - General (e.g: unbreaking, mending)
-
->Dark Purple - Curses
+> Dark Purple - Curses
 #### Optifine is mandatory for the intended experience; without optifine you may have unexpected bugs, errors, or missing features.
 
 Below are my personal recommended shaders and their associated links.
