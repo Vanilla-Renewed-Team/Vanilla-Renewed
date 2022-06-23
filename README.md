@@ -116,3 +116,19 @@ Complementary is a Minecraft Java Edition shader pack based on Capt Tatsu's "BSL
 
 ## I hope you enjoy your time with Vanilla Renewed and thank you for checking it out! 
 ### If you have any questions or suggestions be sure to post them here or message me on discord Xanthus#3862 or email us on VanillaRenewed@pm.me
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/26781744/Xanthus58/Vanilla-Renewed/recent-activity/7ab8037cddf89f9b375908abd7f3e138_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/26781744/Xanthus58/Vanilla-Renewed/recent-activity/7ab8037cddf89f9b375908abd7f3e138_timeline.svg)](https://github.com/Xanthus58/Vanilla-Renewed/commits)
+[![Issue status graph](https://images.repography.com/26781744/Xanthus58/Vanilla-Renewed/recent-activity/7ab8037cddf89f9b375908abd7f3e138_issues.svg)](https://github.com/Xanthus58/Vanilla-Renewed/issues)
+[![Pull request status graph](https://images.repography.com/26781744/Xanthus58/Vanilla-Renewed/recent-activity/7ab8037cddf89f9b375908abd7f3e138_prs.svg)](https://github.com/Xanthus58/Vanilla-Renewed/pulls)
+[![Trending topics](https://images.repography.com/26781744/Xanthus58/Vanilla-Renewed/recent-activity/7ab8037cddf89f9b375908abd7f3e138_words.svg)](https://github.com/Xanthus58/Vanilla-Renewed/commits)
+[![Top contributors](https://images.repography.com/26781744/Xanthus58/Vanilla-Renewed/recent-activity/7ab8037cddf89f9b375908abd7f3e138_users.svg)](https://github.com/Xanthus58/Vanilla-Renewed/graphs/contributors)
+
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Structure
+[![Structure](https://images.repography.com/26781744/Xanthus58/Vanilla-Renewed/structure/d5e298e7922d1740ce97954ff6f57e75_table.svg)](https://github.com/Xanthus58/Vanilla-Renewed)
+
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Top contributors
+[![Top contributors](https://images.repography.com/26781744/Xanthus58/Vanilla-Renewed/top-contributors/7ab8037cddf89f9b375908abd7f3e138_table.svg)](https://github.com/Xanthus58/Vanilla-Renewed/graphs/contributors)
+
