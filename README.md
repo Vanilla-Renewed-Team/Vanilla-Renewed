@@ -64,6 +64,17 @@ Something you wont notice while you have it but you'll notice it when its gone k
 >Various small fixes and tweaks like tons of zfighting; fixing the bottom of the blaze's rods (entity not the item) Etc.
 
 if you have any suggestions be sure to put them into the issues section of the GitHub there will be a feature request template. For anything else email us on VanillaRenewed@pm.me
+
+### Various Screenshots
+![2022-10-01_17 11 43](https://user-images.githubusercontent.com/66909997/193399035-a3293dc0-ca2f-40af-8724-c4526f0cc3ab.png)
+![2022-10-01_17 12 06](https://user-images.githubusercontent.com/66909997/193399045-82b9f533-fcee-40d3-adc4-62ebcc5893be.png)
+![2022-10-01_17 12 54](https://user-images.githubusercontent.com/66909997/193399054-33b473a8-3f82-45b0-938a-25753e8537f7.png)
+![2022-10-01_17 13 34](https://user-images.githubusercontent.com/66909997/193399059-7f235ea6-bdb7-415d-8ac1-ae46fbca207d.png)
+![2022-10-01_17 13 56](https://user-images.githubusercontent.com/66909997/193399070-d4e55784-2aae-45e4-bc1f-b6dd17a94865.png)
+
+
+
+
 ### Book colour meanings
 Book Colours:
 >Grey - Armour
